@@ -1,0 +1,257 @@
+﻿body {
+    background-image: url("https://images.rawpixel.com/image_500/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk2MC1uaW5nLTMwLmpwZw.jpg") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cajaLogin {
+    border: groove;
+    box-shadow: 0px 0px 25px 5px #808080;
+    border-radius: 10px;
+    height: 60vh;
+    background-color: #ffffff !important;
+}
+
+.caja {
+    margin-top: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-bottom: 10% !important;
+}
+
+.imgLogin {
+    background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/1a/b8/46/6d/london-stock.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.tituloLogin h2, h4 {
+    color: #e8c712;
+    margin: 10px;
+    margin-top: 10%;
+    font-size: 80px;
+    font-family: 'Fugaz One' !important;
+}
+
+.backgrLogin {
+    border-radius: 10px;
+    background-color: #23222266;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-shadow: 1px 1px 6px #e8c71276;
+}
+.navbar {
+    background-color: #a32020 !important;
+    
+}
+
+.navbar-brand {
+    justify-content: space-evenly !important;
+    display: flex !important;
+    flex-direction: column;
+    margin:0 !important;
+    padding:0 !important;
+}
+
+.navbar-brand h5{
+    font-size:15px;
+    padding:0 !important;
+    margin:0 !important;
+}
+
+/*cambie este btn a btn2*/
+
+.btn2 {
+    background-color: #a32020 !important;
+    max-width: 100% !important;
+    color:white !important;
+}
+
+.title-page {
+    text-align: center;
+    margin-top:10px;
+    font-style:italic;
+    color:black !important;
+}
+
+.headerTitle {
+    color: black !important;
+    font-weight: bold !important;
+    background-color: #adbdd5 !important;
+}
+
+.color-black{
+    color:black!important;
+}
+
+.cardEdit {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.h42{
+    color:#b7b6b6 !important;
+    margin-bottom:0.5cm;
+}
+
+.boxForm {
+    border: solid;
+    border-color:#dd1a1a;
+    padding: 1cm;
+    background-color: #281a1a57;
+    box-shadow: 0px 0px 25px 5px #808080;
+    border-radius: 10px;
+}
+
+.w-100{
+    width:100% !important;
+}
+
+.br-6{
+     border-radius:6px;
+}
+
+.container-bebidas_edit {
+    border: 1px solid black !important;
+    background-color: #c3cfe8 !important;
+    border-radius: 6px;
+}
+
+.headerTitleMarcas {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #ab001c !important;
+}
+
+.itemMarcas {
+    background-color: #ffe2e7 !important;
+    color: white !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #ab001c;
+    border-left: 1px solid #ab001c;
+    border-bottom: 1px solid #ab001c;
+}
+
+.headerTitleTipoPlato {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #008fab !important;
+}
+
+.itemTipoPlato {
+    background-color: #c4ebf3 !important;
+    color: white !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid #008fab;
+    border-left: 1px solid #008fab;
+    border-bottom: 1px solid #008fab;
+}
+
+
+.container-platos_edit {
+    border: 1px solid black !important;
+    background-color: #f6d2d8 !important;
+    border-radius: 6px;
+}
+
+.confElim {
+    padding-left: -0.5cm !important;
+}
+
+.cardMesas {
+    max-width: 18rem !important;
+    min-height: 200px !important;
+    border-radius: 60% !important;
+    border-style: solid !important;
+    border-width: 3px !important;
+    border-color: ghostwhite !important;
+}
+
+
+.item-listaPedidos {
+   
+    border-right: 1px solid #008fab;
+    border-left: 1px solid #008fab;
+    border-bottom: 1px solid #008fab;
+}
+
+.bg-alice-blue {
+    background: aliceblue;
+}
+
+.bg-warning-light {
+    background: #ffeeee !important;
+}
+
+
+
+.item-listaPedidos div{
+    margin:auto;
+}
+
+.container-pedidos_edit {
+    border: 1px solid black !important;
+    background-color: aliceblue !important;
+    border-radius: 6px;
+    color: white !important;
+}
+
+.w-200px{
+    width:200px !important;
+}
+
+.itemDetallePedido {
+    background-color: #ffffff !important;
+    color: white !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+
+.headerTitleDetallePedido {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #008fab !important;
+    border:1px solid black;
+}
+
+.border-solid-b{
+    border:solid 1px black;
+}
+
+.align-self-fs {
+    align-self: flex-start !important;
+}
+
+.headerTitleReporteMeserosFirst {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #22555e !important;
+}
+.headerTitleReporteMeseros {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #008fab !important;
+}
+
+.headerTitleReporteMesasFirst {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: darkred !important;
+}
+
+.headerTitleReporteMesas {
+    color: white !important;
+    font-weight: bold !important;
+    background-color: #d83a3a !important;
+}
+
+
+.divScroll {
+    overflow-y: scroll;
+    height: 300px;
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP Cuatrimestral", "TP Cuatrimestral.csproj", "{285EB3D7-5EE5-4983-9C39-A8889209A9D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{D5C9C73F-DFD5-4E9A-A509-E21F8E79B466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{A045F49E-814E-40BC-8643-F55C929D8408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285EB3D7-5EE5-4983-9C39-A8889209A9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285EB3D7-5EE5-4983-9C39-A8889209A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285EB3D7-5EE5-4983-9C39-A8889209A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285EB3D7-5EE5-4983-9C39-A8889209A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C9C73F-DFD5-4E9A-A509-E21F8E79B466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C9C73F-DFD5-4E9A-A509-E21F8E79B466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C9C73F-DFD5-4E9A-A509-E21F8E79B466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C9C73F-DFD5-4E9A-A509-E21F8E79B466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A045F49E-814E-40BC-8643-F55C929D8408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A045F49E-814E-40BC-8643-F55C929D8408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A045F49E-814E-40BC-8643-F55C929D8408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A045F49E-814E-40BC-8643-F55C929D8408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93AB3DA3-530E-4583-AABD-E5B73B978990}
+	EndGlobalSection
+EndGlobal
